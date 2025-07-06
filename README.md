@@ -12,21 +12,21 @@ sites.csv
 
 and
 
-artificialgrasspitches.csv
-athletics.csv
-cycling.csv
-golf.csv
-grasspitches.csv
-healthandfitnessgym.csv
-icerinks.csv
-indoorbowls.csv
-indoortenniscentre.csv
-outdoortenniscourts.csv
-skislopes.csv
-sportshalls.csv
-squashcourts.csv
-studios.csv
-swimmingpools.csv
+artificialgrasspitches.csv<br>
+athletics.csv<br>
+cycling.csv<br>
+golf.csv<br>
+grasspitches.csv<br>
+healthandfitnessgym.csv<br>
+icerinks.csv<br>
+indoorbowls.csv<br>
+indoortenniscentre.csv<br>
+outdoortenniscourts.csv<br>
+skislopes.csv<br>
+sportshalls.csv<br>
+squashcourts.csv<br>
+studios.csv<br>
+swimmingpools.csv<br>
 
 It also handles gymnastics.csv which isn’t available yet but will become available in due course.  In the meantime, the lack of gymnastics.csv doesn’t make the program throw an error.
 
@@ -52,25 +52,24 @@ These files can be found with the unzipped "activeplacescsvs.zip" files.
 
 The columns are rearranged to the following:
 
-Site Name
-Thoroughfare Name
-Town
-Site ID
-Postcode
-Facility Type
-Facility Subtype
-Facility ID
-Unit
-Number
-Management Type (Text)
-Ownership Type (Text)
-Accessibility Type (Text)
-Local Authority Code
-Local Authority Name
-Easting
-Northing
-Latitude
-Longitude
+Site Name<br>
+Thoroughfare Name<br>
+Town<br>
+Site ID<br>
+Postcode<br>
+Facility Type<br>
+Facility Subtype<br>
+Facility ID<br>
+Unit<br>
+Number<br>
+Management Type (Text)<br>
+Ownership Type (Text)<br>
+Accessibility Type (Text)<br>
+Local Authority Code<br>
+Local Authority Name<br>
+Easting<br>
+Northing<br>
+Latitude<br>
 
 Unit and number are new.  Unit is populated with the facility subtype and number is populated with the number of them.
 
